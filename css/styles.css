@@ -1,0 +1,223 @@
+body {
+    background-image: url('../img/4de858e72e3a6c270863192509a4c3ee.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center;
+    /* background: #F6F6FA; */
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+    font-family: "Montserrat", serif;
+    font-weight: 400;
+}
+.wraper{
+    background: rgba(246, 246, 250, 0.8);
+    display: flex;
+    flex-direction: row-reverse;
+    border-radius: 75px;
+}
+.main-content{
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 40px;
+    box-sizing:  border-box;
+    flex: 7;
+}
+
+h1 {
+    margin-top: 0px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+h2{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+}
+
+aside
+{
+    background: rgba(221, 255, 0, 0.6);
+    flex: 3;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 370px;
+    border-radius: 75px;
+}
+
+img{
+    border-radius: 5px;
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 35px;
+}
+.said-bar{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+}
+
+.contact{
+    color: #161d2a;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+.contact-type{
+    color: #161d2a;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; 
+    margin-right: 8px;
+}
+.contact-link{
+    color: #2979ff;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    text-decoration-line: underline;
+}
+
+.contact-item{
+    margin-top: 0;
+    margin-bottom: 4px;
+}
+.contact-container{
+    margin-bottom: 40px;
+}
+.skills-container{
+    margin-bottom: 40px;
+}
+.skills-tiltel{
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+    line-height: normal;
+    margin-bottom: 8px;
+}
+.skill-list{
+    padding-left: 16px;
+}
+.skill-list-item{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161d2a;
+}
+.preject{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000; 
+    margin-bottom: 8px;   
+}
+.my-info{
+    margin-top: 0px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #212121;  
+    margin-bottom: 40px;  
+}
+.project-full{
+    margin-bottom: 40px;
+
+}
+.link-info-1{
+    margin-top: 0px;
+    padding-left: 18px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
+}
+.link-info{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #005fff;
+}
+.preject-info-text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px; 
+    color: #161d2a;
+}
+.work-exp{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000;
+    margin-bottom: 8px;
+}
+.dong{
+    margin-top: 0px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000;
+    margin-bottom: 12px;
+}
+.day{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #0f5008;
+    margin-bottom: 8px;
+}
+.ulwork{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #4a1c7a;
+    padding-left: 22px;
+    margin-bottom: 12px;
+}
+.divwork{
+    margin-bottom: 12px;
+}
+.ulwork2{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #4a1c7a;
+    padding-left: 22px;
+    margin-bottom: 40px;
+}
+.education{
+    font-weight: 700;
+    font-size: 22px;
+    color: #000;
+    margin-bottom: 8px;
+}
+.chil{
+    margin-top: 0px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #0f5008;
+    margin-bottom: 8px;
+}
+
+.chill-time{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #4a1c7a;
+    padding-left: 22px;
+}
